@@ -1,0 +1,14 @@
+F:\项目软件\基恩士二次开发\软件开发\KEYENCE\KEYENCE\bin\Release\KEYENCE.exe.config
+F:\项目软件\基恩士二次开发\软件开发\KEYENCE\KEYENCE\bin\Release\KEYENCE.exe
+F:\项目软件\基恩士二次开发\软件开发\KEYENCE\KEYENCE\bin\Release\KEYENCE.pdb
+F:\项目软件\基恩士二次开发\软件开发\KEYENCE\KEYENCE\bin\Release\Interop.CVXLib.dll
+F:\项目软件\基恩士二次开发\软件开发\KEYENCE\KEYENCE\bin\Release\AxInterop.CVXLib.dll
+F:\项目软件\基恩士二次开发\软件开发\KEYENCE\KEYENCE\obj\Release\Interop.CVXLib.dll
+F:\项目软件\基恩士二次开发\软件开发\KEYENCE\KEYENCE\obj\Release\AxInterop.CVXLib.dll
+F:\项目软件\基恩士二次开发\软件开发\KEYENCE\KEYENCE\obj\Release\KEYENCE.csproj.ResolveComReference.cache
+F:\项目软件\基恩士二次开发\软件开发\KEYENCE\KEYENCE\obj\Release\KEYENCE.Form1.resources
+F:\项目软件\基恩士二次开发\软件开发\KEYENCE\KEYENCE\obj\Release\KEYENCE.Properties.Resources.resources
+F:\项目软件\基恩士二次开发\软件开发\KEYENCE\KEYENCE\obj\Release\KEYENCE.csproj.GenerateResource.cache
+F:\项目软件\基恩士二次开发\软件开发\KEYENCE\KEYENCE\obj\Release\KEYENCE.csproj.CoreCompileInputs.cache
+F:\项目软件\基恩士二次开发\软件开发\KEYENCE\KEYENCE\obj\Release\KEYENCE.exe
+F:\项目软件\基恩士二次开发\软件开发\KEYENCE\KEYENCE\obj\Release\KEYENCE.pdb
